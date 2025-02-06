@@ -6,33 +6,67 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🚀 About Me</h2>
 
 ###
-I am a web developer graduated from a Web Application Development program, with experience working with Spring Boot, Angular, and NestJS, as well as advanced knowledge of Python, Java, and TypeScript. I have used MySQL as the main database in various projects and have experience working with tools such as Docker and Linux. Although my professional experience is limited, my passion for learning and continuous improvement drives me to seek innovative solutions and stay updated with the latest trends in web development.
 
-<h2 align="left">I currently program with</h2>
+I am a web developer with a degree in Web Application Development. I have experience working with **Spring Boot and React**, and advanced knowledge of **Python, Java, and TypeScript**.  
+
+I have used **MySQL** as the main database in various projects and have experience working with **Docker, Linux, and Kubernetes**. My expertise also includes **microservices architecture, CI/CD pipelines, and cloud deployment**.  
+
+Although my professional experience is limited, my passion for learning and continuous improvement drives me to seek innovative solutions and stay updated with the latest trends in web development.
+
+---
+
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
 </div>
 
-###
+---
 
+<h2 align="left">🌟 What I Love Working On</h2>
 
+- Backend development with **Spring Boot**
+- Frontend development with **React**
+- Optimizing databases using **MySQL** and **PostgreSQL**
+- Containerization with **Docker** and orchestration with **Kubernetes**
+- Writing clean, maintainable, and testable code with **JUnit** and **TDD principles**
+- Cloud computing and CI/CD automation
+---
+
+<h2 align="left">📫 Let's Connect!</h2>
+
+- **LinkedIn**: [Markus Abramian Medina](www.linkedin.com/in/markus-abramian-medina-1b0281273)  
+- **GitHub**: [markush0f](https://github.com/your-profile)  
+- **Email**: abramianmedina@gmail.com
+
+---
+
+🚀 _Passionate about technology, software architecture, and building high-quality applications!_  
