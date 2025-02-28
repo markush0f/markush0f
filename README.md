@@ -69,4 +69,9 @@ Although my professional experience is limited, my passion for learning and cont
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markush0f&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markush0f&layout=compact&theme=radical)  
+
+---
+
 🚀 _Passionate about technology, software architecture, and building high-quality applications!_  
