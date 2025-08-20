@@ -42,7 +42,7 @@ Although my professional experience is limited, my passion for learning and cont
 
 <h2 align="left">🌟 What I Love Working On</h2>
 
-- Backend development with **Spring Boot**
+- Backend development with **Spring Boot** and **FastAPI**
 - Frontend development with **React**
 - Optimizing databases using **MySQL** and **PostgreSQL**
 - Containerization with **Docker** and orchestration with **Kubernetes**
