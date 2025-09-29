@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Markus Abramian Medina!</h1>
-<p align="center">A passionate Full-Stack Web Developer from Spain, building scalable & high-quality applications 🚀</p>
+<p align="center">A passionate Software Developer from Spain, building scalable & high-quality applications 🚀</p>
 
 ---
 
