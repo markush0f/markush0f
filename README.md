@@ -54,15 +54,6 @@
 
 ---
 
-<h2 align="left">🕒 Currently Learning / Exploring</h2>
-
-- 🤖 AI & Machine Learning Integration  
-- ⚡ Real-time Web Applications & Event-driven Architecture  
-- ☁️ Advanced Cloud Deployment Patterns (AWS, GCP)  
-- 🔒 Security Best Practices & DevSecOps  
-
----
-
 <h2 align="left">📫 Connect with Me</h2>
 
 <p>
