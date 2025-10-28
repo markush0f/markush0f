@@ -7,10 +7,10 @@
 
 - 🎓 Degree in Web Application Development  
 - 💻 Experienced in **Spring Boot**, **React**, **FastAPI**, **Python**, **Java**, and **TypeScript**  
-- 🗄️ Skilled in **MySQL**, **PostgreSQL**, **Database Optimization**, and **SQLModel/ORMs**  
-- 🐳 Containerization with **Docker**, orchestration with **Kubernetes**  
-- ☁️ CI/CD pipelines, cloud deployments (AWS/GCP), and microservices architecture  
-- 🛠 Writing clean, maintainable, and testable code using **TDD**, **JUnit**, and **pytest**  
+- 🗄️ Skilled in **MySQL**, **PostgreSQL**,  and **SQLModel/ORMs**  
+- 🐳 Containerization with **Docker** 
+- ☁️ CI/CD pipelines, deployments, and microservices architecture  
+- 🛠 Writing clean, maintainable, and testable code using **TDD**, **JUnit**  
 - 🔍 Always learning, exploring new technologies, and solving complex problems  
 
 ---
@@ -35,10 +35,10 @@
 
 <h2 align="left">💡 What I Love Working On</h2>
 
-- 🏗 Backend: **Spring Boot**, **FastAPI**, **REST APIs**, **GraphQL**  
+- 🏗 Backend: **Spring Boot**, **FastAPI**, **REST APIs**
 - 🎨 Frontend: **React**, **TailwindCSS**, responsive & accessible UI  
 - 🗄️ Database: design, optimization & data modeling (**MySQL**, **PostgreSQL**)  
-- 🐳 DevOps: **Docker**, **Kubernetes**, CI/CD automation & cloud deployment  
+- 🐳 DevOps: **Docker**, CI/CD automation & cloud deployment  
 - ✨ Code Quality: TDD, unit testing, maintainable & scalable architecture  
 - 🤖 AI / RAG: exploring Local LLMs, AI integration & automation  
 
