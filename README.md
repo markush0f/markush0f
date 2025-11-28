@@ -44,15 +44,6 @@
 ---
 
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markush0f&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markush0f&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 <h2 align="left">📫 Connect with Me</h2>
 
 <p>
