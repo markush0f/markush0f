@@ -1,77 +1,66 @@
-<div align="center">
-  <h1>Hey 👋, I'm Markus Abramian Medina</h1>
-  <p><strong>Software Developer | Fullstack Engineer | Architecture Enthusiast</strong></p>
-  <p>Building scalable, high-quality applications with a focus on clean code and performance.</p>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-Spain-orange?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/Degree-Web_App_Development-blue?style=flat-square" alt="Education">
-  <img src="https://img.shields.io/github/followers/markush0f?label=Followers&style=flat-square" alt="Followers">
-</div>
+<h1 align="center">Hey 👋, I'm Markus Abramian Medina!</h1>
+<p align="center">A passionate Software Developer from Spain, building scalable & high-quality applications 🚀</p>
 
 ---
 
-### 🌟 Professional Summary
+<h2 align="left">🌟 About Me</h2>
 
-I am a passionate Software Developer specialized in creating robust backends and dynamic frontends. My approach is centered around **Domain-Driven Design (DDD)**, **Test-Driven Development (TDD)**, and **Microservices architecture**. I thrive on solving complex problems and staying at the forefront of AI and Cloud technologies.
-
----
-
-### 🛠️ Technical Proficiency
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend** | Java (Spring Boot), Python (FastAPI, Flask), RESTful APIs |
-| **Frontend** | React, TypeScript, JavaScript, TailwindCSS, HTML5/CSS3 |
-| **Databases** | PostgreSQL, MySQL, SQLModel, SQLAlchemy |
-| **DevOps & Cloud** | Docker, CI/CD Pipelines, Git, Linux |
-| **Quality & Testing** | JUnit, TDD, Clean Code, Design Patterns |
-| **Experimental** | Local LLMs, RAG Pipelines, AI Automation |
+- 🎓 Degree in Web Application Development  
+- 💻 Experienced in **Spring Boot**, **React**, **FastAPI**, **Python**, **Java**, and **TypeScript**  
+- 🗄️ Skilled in **MySQL**, **PostgreSQL**,  and **SQLModel/ORMs**  
+- 🐳 Containerization with **Docker** 
+- ☁️ CI/CD pipelines, deployments, and microservices architecture  
+- 🛠 Writing clean, maintainable, and testable code using **TDD**, **JUnit**  
+- 🔍 Always learning, exploring new technologies, and solving complex problems  
 
 ---
 
-### 📊 GitHub Ecosystem
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=markush0f&show_icons=true&theme=transparent&hide_border=true&title_color=3182ce&icon_color=3182ce&text_color=718096" alt="Markus's Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markush0f&layout=compact&theme=transparent&hide_border=true&title_color=3182ce&text_color=718096" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 💡 Core Interests & Focus
-
-- 🏗️ **Architecture:** Designing maintainable and scalable microservices.
-- 🤖 **AI Integration:** Implementing Retrieval-Augmented Generation (RAG) and local model workflows.
-- 🧪 **Engineering Excellence:** Promoting software quality through rigorous testing and code reviews.
-
----
-
-### 📫 Connect with me
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/markus-abramian-medina-1b0281273" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abramianmedina@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/markush0f">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
 </div>
 
-<br />
+---
 
-<div align="center">
-  <sub>Built with precision and a passion for code by Markus Abramian Medina. 🚀</sub>
-</div>
+<h2 align="left">💡 What I Love Working On</h2>
+
+- 🏗 Backend: **Spring Boot**, **FastAPI**, **REST APIs**
+- 🎨 Frontend: **React**, **TailwindCSS**, responsive & accessible UI  
+- 🗄️ Database: design, optimization & data modeling (**MySQL**, **PostgreSQL**)  
+- 🐳 DevOps: **Docker**, CI/CD automation & cloud deployment  
+- ✨ Code Quality: TDD, unit testing, maintainable & scalable architecture  
+- 🤖 AI / RAG: exploring Local LLMs, AI integration & automation  
+
+---
+
+
+<h2 align="left">📫 Connect with Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/markus-abramian-medina-1b0281273">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/markush0f">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:abramianmedina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+🚀 <em>Building scalable software, mastering software architecture, exploring AI, and creating innovative solutions every day!</em>
+</p>
+Quiero que lo hagas mas llamativo y mas profesional porfvor, es para mi github
