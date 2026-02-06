@@ -1,6 +1,4 @@
 <h1 align="center">Hey 👋, I'm Markus Abramian Medina!</h1>
-<p align="center">A passionate Software Developer from Spain, building scalable & high-quality applications 🚀</p>
-
 ---
 
 <h2 align="left">🌟 About Me</h2>
@@ -59,8 +57,3 @@
 </p>
 
 ---
-
-<p align="center">
-🚀 <em>Building scalable software, mastering software architecture, exploring AI, and creating innovative solutions every day!</em>
-</p>
-Quiero que lo hagas mas llamativo y mas profesional porfvor, es para mi github
