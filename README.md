@@ -39,8 +39,8 @@
 - 🤖 AI / RAG: exploring Local LLMs, AI integration & automation  
 
 ---
-
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=markush0f&show_icons=true&theme=radical)
+---
 <h2 align="left">📫 Connect with Me</h2>
 
 <p>
